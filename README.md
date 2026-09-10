@@ -13,7 +13,7 @@
 ### 🚀 What I do
 
 - 📱 Build **iOS & macOS** apps in **Swift**
-- 🛠️ Create handy dev utilities — like [**IconGen**](https://github.com/alishapckg/IconGen), a one-click app icon generator for Xcode
+- 🛠️ Create handy dev utilities - like [**IconGen**](https://github.com/alishapckg/IconGen), a one-click app icon generator for Xcode
 - 🐾 Experiment with smaller, fun ideas like [**CursorPetApp**](https://github.com/alishapckg/CursorPetApp)
 - 🔭 Always digging deeper into SwiftUI, UIKit, and AppKit
 
@@ -36,13 +36,13 @@
 |---|---|
 | [**IconGen**](https://github.com/alishapckg/IconGen) | A clean, native macOS utility for generating Xcode-compatible app icons in one click |
 | [**CursorPetApp**](https://github.com/alishapckg/CursorPetApp) | Cursor Pet on macOS with a feature built for iOS/macOS devs |
-| [**VideoBackgroundTool**](https://github.com/alishapckg/VideoBackgroundTool) | Remove or replace video backgrounds with AI — no green screen required |
+| [**VideoBackgroundTool**](https://github.com/alishapckg/VideoBackgroundTool) | Remove or replace video backgrounds with AI - no green screen required |
 | [**AtopicHelperApp**](https://github.com/alishapckg/AtopicHelperApp) | A PWA app built to help people with atopic dermatitis |
 
 ---
 
 <div align="center">
 
-⭐ Check out my pinned repos — that's where the fun stuff is!
+⭐ Check out my pinned repos - that's where the fun stuff is!
 
 </div>
