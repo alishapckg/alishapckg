@@ -34,7 +34,7 @@
 
 | Project | Description |
 |---|---|
-| [**IconGen**](https://github.com/alishapckg/IconGen) | [WIP] A clean, native macOS utility for generating Xcode-compatible app icons in one click |
+| [**IconGen**](https://github.com/alishapckg/IconGen) | A clean, native macOS utility for generating Xcode-compatible app icons in one click |
 | [**CursorPetApp**](https://github.com/alishapckg/CursorPetApp) | [WIP] Cursor Pet on macOS with a feature built for iOS/macOS devs |
 | [**VideoBackgroundTool**](https://github.com/alishapckg/VideoBackgroundTool) | [WIP] Remove or replace video backgrounds with AI - no green screen required |
 | [**AtopicHelperApp**](https://github.com/alishapckg/AtopicHelperApp) | [WIP] A PWA app built to help people with atopic dermatitis |
